@@ -16,19 +16,19 @@
 
 **Packly Test Cases & Reports**
 
-📁 Included in this repository:
-- `Packly_Master_Test_Execution_Sheet.xlsx` — 109 manual UI test cases
-- `Packly_API_Test_Cases.xlsx` — 17 API-level test cases (endpoint, method, request/response verification)
-- `Packly_BVA_Test_Cases.xlsx` — 122 boundary value / best-case / worst-case test cases across 30 functional areas
-- `Packly_Test_Scenarios.xlsx` — 40 high-level test scenarios across 10 modules
-- `Packly_Mind_Map.png` / `.svg` — visual map of full site functionality coverage
-- `Functionality_Checklist.md` — inventory of every tested feature by module
-- `bug-reports/` — individual defect reports with screenshots and reproduction steps
+🔗 [View All Test Documentation](https://docs.google.com/spreadsheets/d/1czRy3Yo3OFlHqIEtiwWWckpszlU8SyrCj-WyRK2smWk/edit?usp=sharing)
 
-**Sheet Contents:**
+**Contents:**
 - 126 total test cases executed (109 manual UI + 17 API)
-- 15 confirmed defects identified across UI and API layers
+- Boundary value / best-case / worst-case test cases across 30 functional areas
+- 40 high-level test scenarios across 10 modules
 - Full mind map of test coverage across 17 site modules
+- 15 confirmed defects identified across UI and API layers, with screenshots and reproduction steps
+
+**Access Notes:**
+- Requires a Google account (if hosted on Google Drive/Sheets)
+- Set to "View Only" by default
+- Request edit access if needed
 
 ---
 
